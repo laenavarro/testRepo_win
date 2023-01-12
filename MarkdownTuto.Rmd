@@ -9,5 +9,5 @@ Now testing Markdown for real!
 
 ```{r, eval=TRUE}
 ## insert your brilliant WORKING code here
-printf("test")
+print("test")
 ```
